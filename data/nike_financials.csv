@@ -1,0 +1,70 @@
+statement,item,FY2021,FY2022,FY2023,FY2024,FY2025,FY2026
+IS,Revenues,44538,46710,51217,51362,46309,46398
+IS,Cost of sales,24576,25231,28925,28475,26519,26487
+IS,Gross profit,19962,21479,22292,22887,19790,19911
+IS,Demand creation expense,3114,3850,4060,4285,4689,4754
+IS,Operating overhead expense,9911,10954,12317,12291,11399,11360
+IS,Total selling and administrative expense,13025,14804,16377,16576,16088,16114
+IS,"Interest expense (income), net",262,205,-6,-161,-107,-50
+IS,"Other (income) expense, net",14,-181,-280,-228,-76,-53
+IS,Income before income taxes,6661,6651,6201,6700,3885,3900
+IS,Income tax expense,934,605,1131,1000,666,792
+IS,Net income,5727,6046,5070,5700,3219,3108
+IS,Diluted EPS ($),3.56,3.75,3.23,3.73,2.16,2.10
+IS,Diluted weighted average shares (m),1609.4,1610.8,1569.8,1529.7,1487.6,1481.0
+BS,Cash and equivalents,9889,8574,7441,9860,7464,7563
+BS,Short-term investments,3587,4423,3234,1722,1687,1464
+BS,"Accounts receivable, net",4463,4667,4131,4427,4717,5931
+BS,Inventories,6854,8420,8454,7519,7489,7501
+BS,Prepaid expenses and other current assets,1498,2129,1942,1854,2005,2144
+BS,Total current assets,26291,28213,25202,25382,23362,24603
+BS,"Property, plant and equipment, net",4904,4791,5081,5000,4828,4796
+BS,"Operating lease right-of-use assets, net",3113,2926,2923,2718,2712,2838
+BS,"Identifiable intangible assets, net",269,286,274,259,259,259
+BS,Goodwill,242,284,281,240,240,240
+BS,Deferred income taxes and other assets,2921,3821,3770,4511,5178,5674
+BS,Total assets,37740,40321,37531,38110,36579,38410
+BS,Current portion of long-term debt,0,500,0,1000,0,2000
+BS,Notes payable,2,10,6,6,5,0
+BS,Accounts payable,2836,3358,2862,2851,3479,3600
+BS,Current portion of operating lease liabilities,467,420,425,477,502,478
+BS,Accrued liabilities,6063,6220,5723,5725,5911,6092
+BS,Income taxes payable,306,222,240,534,669,377
+BS,Total current liabilities,9674,10730,9256,10593,10566,12547
+BS,Long-term debt,9413,8920,8927,7903,7961,5942
+BS,Operating lease liabilities,2931,2777,2786,2566,2550,2613
+BS,Deferred income taxes and other liabilities,2955,2613,2558,2618,2289,2443
+BS,Common stock at stated value,3,3,3,3,3,3
+BS,Capital in excess of stated value,9965,11484,12412,13409,14195,15158
+BS,Accumulated other comprehensive income (loss),-380,318,231,53,-258,-141
+BS,Retained earnings (deficit),3179,3476,1358,965,-727,-155
+BS,Total shareholders' equity,12767,15281,14004,14430,13213,14865
+BS,Total liabilities and shareholders' equity,37740,40321,37531,38110,36579,38410
+CF,Net income,5727,6046,5070,5700,3219,3108
+CF,Depreciation and amortization,744,717,703,796,775,747
+CF,Deferred income taxes,-385,-650,-117,-497,-288,-96
+CF,Stock-based compensation,611,638,755,804,709,715
+CF,Impairment and other,53,123,156,48,33,50
+CF,Net foreign currency adjustments,-138,-26,-213,-138,37,22
+CF,(Increase) decrease in accounts receivable,-1606,-504,489,-329,-257,-1207
+CF,(Increase) decrease in inventories,507,-1676,-133,908,120,-31
+CF,(Increase) decrease in prepaid expenses and other assets,-182,-845,-644,-260,-224,519
+CF,Increase (decrease) in payables and other liabilities,1326,1365,-225,397,-426,-959
+CF,Cash provided by operations,6657,5188,5841,7429,3698,2868
+CF,Purchases of short-term investments,-9961,-12913,-6059,-4767,-3234,-1316
+CF,Maturities of short-term investments,4236,8199,3356,2269,319,556
+CF,Sales of short-term investments,2449,3967,4184,4219,3062,1021
+CF,Additions to property plant and equipment,-695,-758,-969,-812,-430,-684
+CF,Other investing activities,171,-19,52,-15,8,-65
+CF,Cash provided (used) by investing activities,-3800,-1524,564,894,-275,-488
+CF,"Increase (decrease) in notes payable, net",-52,15,-4,0,-1,0
+CF,Repayment of borrowings,-197,0,-500,0,-1000,0
+CF,Proceeds from stock options and other issuances,1172,1151,651,667,551,354
+CF,Repurchase of common stock,-608,-4014,-5480,-4250,-2985,-146
+CF,Dividends paid,-1638,-1837,-2012,-2169,-2300,-2407
+CF,Other financing activities,-136,-151,-102,-136,-85,-93
+CF,Cash provided (used) by financing activities,-1459,-4836,-7447,-5888,-5820,-2292
+CF,Effect of exchange rate changes,143,-143,-91,-16,1,11
+CF,Net increase (decrease) in cash,1541,-1315,-1133,2419,-2396,99
+CF,Cash at beginning of year,8348,9889,8574,7441,9860,7464
+CF,Cash at end of year,9889,8574,7441,9860,7464,7563
